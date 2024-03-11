@@ -1,4 +1,4 @@
-Discord: doomxyz
+Discord: chaaaay.
 
 <!-- # ⭕ Tic-Tac-Toe -->
 
