@@ -1,4 +1,4 @@
-Discord: doom00792#3463
+Discord: doomxyz
 
 <!-- # ⭕ Tic-Tac-Toe -->
 
